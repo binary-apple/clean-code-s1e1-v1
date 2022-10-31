@@ -14,7 +14,7 @@ body {
 .header img {
   width: 100%;
 }
-.header .more_inf {
+.header .header__link {
   font-family: fantasy, cursive;
 }
 
